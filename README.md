@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/CSS.png"
+    src="https://github.com/Elly-zps/Plan-financereira-inteligente-IA/blob/main/assets/CCS.png"
     width="300"
 />
 </p>
